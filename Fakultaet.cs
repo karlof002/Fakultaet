@@ -1,13 +1,3 @@
-/*
- * 
- * 
- * Aufgabenstellung: Berechnung der Fakult‰t
- * Eingabe: Wert x
- * Ausgabe: x!  
- * zB. x=5!  ===>  x=1*2*3*4*5
- *     x=0!  ===>  x=1
-
- */
 using System;
 using System.Collections.Generic;
 
@@ -19,7 +9,7 @@ namespace Fakultaet
 		{
 			int i,wert,ergebnis=1;
 			
-			Console.WriteLine("Fakult‰tsberechnung");
+			Console.WriteLine("Fakult√§tsberechnung");
 			Console.WriteLine("===================");
 			Console.WriteLine();
 			Console.Write("Bitte Wert eingeben: ");
